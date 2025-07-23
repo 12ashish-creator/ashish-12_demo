@@ -1,4 +1,4 @@
-# ashish-12_demo
+# Employee Management System
 This is my first Git Repository.
 <br>
 Author - Ashish
